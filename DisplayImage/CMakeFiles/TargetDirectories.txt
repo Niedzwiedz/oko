@@ -1,0 +1,1 @@
+/home/ubear/Dokumenty/eyetrack/DisplayImage/CMakeFiles/DisplayImage.dir

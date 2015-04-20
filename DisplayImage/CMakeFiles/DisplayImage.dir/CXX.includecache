@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubear/Dokumenty/eyetrack/DisplayImage/DisplayImage.cpp
+stdio.h
+-
+opencv2/opencv.hpp
+-
+

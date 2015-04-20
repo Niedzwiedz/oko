@@ -1,0 +1,5 @@
+problem z kompilacją opencv z konsoli pod linuxem
+
+nieznajomosc opencv, roznica miedzy iplimage a mat(brak roznicy czyli iplimage jest starsza implementacja dla c api a mat dla nowego c++ api)
+
+kod ktory chcialem zaimplementowac by niekompletny, brakowalo okienka
